@@ -1,3 +1,6 @@
+# First
+On the first run use `npm install` to install all the dependencies
+
 # Setup
 
 - goto https://console.developers.google.com/
